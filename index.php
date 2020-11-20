@@ -1,6 +1,6 @@
 <?php 
 
 echo "ganesh";
-echo "renuka";
+echo "index page was chaged by developer";
 
 ?>
